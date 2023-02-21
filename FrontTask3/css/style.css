@@ -1,0 +1,98 @@
+* {
+    margin: 0px;
+    padding: 0;
+}
+
+.first {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 16rem 4rem;
+
+}
+
+.head1 {
+    font-weight: bold;
+    font-size: 90px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+}
+
+.text1 {
+    font-size: 40px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button {
+    background-color: #1D809F;
+    text-decoration: none;
+    color: #fff;
+    border: 2px solid #1D809F;
+    padding: 25px 40px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    margin-top: 30px;
+
+}
+
+.second {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url();
+    background-size: cover;
+    background-position: center;
+    padding: 8rem 7rem;
+}
+
+.head2 {
+    font-weight: bold;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    margin-bottom: 10px;
+}
+
+.button2 {
+
+    text-decoration: none;
+    color: #fff;
+    border: 2px solid #212529;
+    padding: 25px 40px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    margin-top: 60px;
+    background-color: #212529;
+
+}
+
+.text2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+.third {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 15rem 7rem;
+}
+
+.head3 {
+    font-weight: bold;
+    font-size: 65px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    margin-bottom: 10px;
+}
